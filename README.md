@@ -1,6 +1,6 @@
 # Scratch
 A scratch programom egy gól leanimálása.
 
-![futas kozben](gol.png =100x100)
+![futas kozben](gol.png)
 
 
