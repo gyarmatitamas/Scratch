@@ -1,5 +1,5 @@
 # Scratch
 A scratch programom egy gól leanimálása.
-<img src="gol.png" alt="futas kozben" width="1000%" height="1000%">
+<img src="gol.png" alt="futas kozben" width="10000" height="10000%">
 
 
